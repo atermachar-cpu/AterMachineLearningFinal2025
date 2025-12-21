@@ -1,5 +1,6 @@
-sklearn==1.7.2
+scikit-learn==1.7.2
 pandas
 matplotlib
 
 streamlit
+
