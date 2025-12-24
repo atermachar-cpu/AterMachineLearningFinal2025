@@ -3,4 +3,6 @@ pandas
 matplotlib
 streamlit
 px
+plotly
+
 
